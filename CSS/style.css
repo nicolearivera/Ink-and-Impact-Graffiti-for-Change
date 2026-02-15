@@ -7,11 +7,11 @@
 }
 /* Base page styling */
 body {
-    background-color: #121212;          /* dark theme base */
+    background-color: #045d76;          /* dark theme base */
     font-family: "Arial, Helvetica, sans-serif"; /* clean and modern */
     font-size: 16px;
     line-height: 1.7;
-    color: #eaeaea;
+    color: #fefefe;
     margin: 0;
     padding: 24px;
 }
@@ -28,7 +28,7 @@ h1 {
 /* Subheadings – left aligned */
 h2, h3 {
     text-align: left;
-    color: #8be9fd;
+    color: #e39cf1;
     margin-top: 30px;
 }
 
@@ -57,10 +57,10 @@ ul, ol {
 
 .flex-box {
     flex:1 1 45%;
-    background-color:rgb(80, 10, 94);
+    background-color:rgb(121, 80, 147);
     padding: 1rem;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(1, 1, 1, 0.1);
 }
 /* footer styling */
 .footer {
